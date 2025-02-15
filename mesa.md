@@ -9,18 +9,18 @@
 I have been a Mesa contributor since 2018. Open Source is an exceptional way to find passionate problem solvers across the globe and solve hard problems together. Beside contributions and code reviews to help take Mesa from version 0 to version 3, I have helped Mesa be selected for Google Summers of Code, become NumFOCUS affiliated, and be selected for small development grants. I am honored to work with the exceptional Mesa Dev Community everyday!   
 </p>
 
-<div class="darker-section" style="--bg-color:rgb(2, 31, 10);">
+<div class="darker-section" style="--bg-color: #c2e0f4;>
+
 <h1 style="text-align: left;"> Mesa
 <a href="https://github.com/projectmesa" target="_blank">
-    <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/></a>
- </h1>
-
+<img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/></a>
+</h1>
 
 <p style="text-align: left;">
 Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
 </p>
 
-### Explore Mesa 
+<h2 style="text-align: left;"> Explore Mesa </h2> 
 
 <div class="link-container">
     <!-- Mesa GIF -->
