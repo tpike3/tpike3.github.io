@@ -13,7 +13,7 @@ I am passionate complex systems scientist, who uses agent based models as well a
 
 ***
 
-<div class="darker-section" style="--bg-color: #c2e0f4;" )>
+<div class="darker-section" style="--bg-color: #c2e0f4;">
 <h2> Learn More </h2>
 <div class="link-container">
     <figure>
