@@ -6,11 +6,6 @@
 
 <br>
 
-# Thomas D. Pike 
-###### Complex Systems and Agent Based Models
-
-***
-
 <h3 style="text-align: left"> About Me </h3>
 <p style="text-align: left;">
 I am passionate complex systems scientist, who uses agent based models as well as several other approaches (e.g. ML, DL, GPT, RL, Networks, HyperNetworks) often integrated together in an attempt to understand the world better. My focus is on next generation governance and decision-making. 
@@ -22,7 +17,7 @@ I am passionate complex systems scientist, who uses agent based models as well a
 
 <div class="link-container">
     <figure>
-        <a href="https://tpike3.github.io/mesa.md">
+        <a href="https://tpike3.github.io/mesa">
             <img src="images/Mesa_Logo.png" alt="Mesa" />
         </a>
         <figcaption>Mesa</figcaption>
@@ -31,7 +26,7 @@ I am passionate complex systems scientist, who uses agent based models as well a
 
 <div class="link-container">
     <figure>
-        <a href="https://tpike3.github.io/niu.md">
+        <a href="https://tpike3.github.io/niu">
             <img src="images/NIU.jpg" alt="NIU" />
         </a>
         <figcaption>National Intelligence University</figcaption>
@@ -40,7 +35,7 @@ I am passionate complex systems scientist, who uses agent based models as well a
 
 <div class="link-container">
     <figure>
-        <a href="https://tpike3.github.io/interests.md">
+        <a href="https://tpike3.github.io/interests">
             <img src="images/research.jpg" alt="Interests" />
         </a>
         <figcaption>Interests</figcaption>

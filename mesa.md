@@ -29,7 +29,7 @@ visualize them using a browser-based interface; and analyze their results using 
     <!-- Mesa GIF -->
     <figure>
         <a href="https://mesa.readthedocs.io" target="_blank">
-            <img src="images/mesa.gif" alt="Mesa Library" />
+            <img src="images/Mesa.gif" alt="Mesa Library" />
         </a>
         <figcaption>Mesa</figcaption>
     </figure>
@@ -39,7 +39,7 @@ visualize them using a browser-based interface; and analyze their results using 
     <!-- Mesa-Geo GIF -->
     <figure>
         <a href="https://mesa-geo.readthedocs.io" target="_blank">
-            <img src="images/mesa_geo.gif" alt="Mesa-Geo Library" />
+            <img src="images/Mesa_Geo.gif" alt="Mesa-Geo Library" />
         </a>
         <figcaption>Mesa-Geo</figcaption>
     </figure>
