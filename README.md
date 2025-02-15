@@ -2,8 +2,8 @@
 
 
 <link rel="stylesheet" href="style.css" />
-<div class="home-page", style="background-color:rgb(240, 248, 248);>
 
+## Complex Systems Scientist and Leader
 <br>
 
 <h3 style="text-align: left"> About Me </h3>
@@ -13,8 +13,8 @@ I am passionate complex systems scientist, who uses agent based models as well a
 
 ***
 
-## Learn More About What I Do
-
+<div class="darker-section" style="--bg-color: #c2e0f4;" )>
+<h2> Learn More </h2>
 <div class="link-container">
     <figure>
         <a href="https://tpike3.github.io/mesa">
@@ -41,4 +41,4 @@ I am passionate complex systems scientist, who uses agent based models as well a
         <figcaption>Interests</figcaption>
     </figure>
 </div>
-
+</div>

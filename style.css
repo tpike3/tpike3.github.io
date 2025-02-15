@@ -73,6 +73,19 @@ h6 {
     color: #555;
 }
 
+/* Darker section for content below specific elements */
+.darker-section {
+    padding: 40px 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-top: 2px solid #ccc;
+    background-color: #dbe6ec; /* Default background color */
+}
+
+.darker-section[data-background] {
+    background-color: var(--bg-color, #dbe6ec);
+}
+
 /* Page-specific styles */
 .home-page {
     background-color: #d3e0ea;

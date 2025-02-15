@@ -1,26 +1,24 @@
 <link rel="stylesheet" href="style.css" />
-<div class="mesa-page" style="background-color:rgb(242, 248, 240);">
 
-<!-- GitHub Octocat Logo in Upper-Right Corner -->
-<a href="https://github.com/projectmesa" target="_blank">
-    <img src="images/octocat.png" alt="GitHub" style="width: 90px; height: 90px; position: absolute; top: 5px; right: 150px;"/>
-</a>
-<br>
-<h1 style="text-align: left; font-size: 2.50em;">Mesa Co-Lead </h1>
-<br>
 
-***
+<br>
+<h1 style="text-align: left; font-size: 2.5em;">Mesa Co-Lead </h1>
+<br>
 
 <p style="text-align: left;">
 I have been a Mesa contributor since 2018. Open Source is an exceptional way to find passionate problem solvers across the globe and solve hard problems together. Beside contributions and code reviews to help take Mesa from version 0 to version 3, I have helped Mesa be selected for Google Summers of Code, become NumFOCUS affiliated, and be selected for small development grants. I am honored to work with the exceptional Mesa Dev Community everyday!   
 </p>
 
-***
+<div class="darker-section" style="--bg-color:rgb(2, 31, 10);" )>
+<h1 style="text-align: left;">Mesa
+<a href="https://github.com/projectmesa" target="_blank">
+    <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/>
+ </h1>
+<!-- GitHub Octocat Logo in Upper-Right Corner -->
 
-<h2 style="text-align: left;">Mesa </h2>
+</a>
 <p style="text-align: left;">
-Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; 
-visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
+Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
 </p>
 
 ### Explore Mesa 
