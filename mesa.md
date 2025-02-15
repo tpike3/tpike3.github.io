@@ -10,13 +10,12 @@ I have been a Mesa contributor since 2018. Open Source is an exceptional way to 
 </p>
 
 <div class="darker-section" style="--bg-color:rgb(2, 31, 10);">
-<h1 style="text-align: left;" Mesa
+<h1 style="text-align: left;"> Mesa
 <a href="https://github.com/projectmesa" target="_blank">
-    <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/>
+    <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/></a>
  </h1>
-<!-- GitHub Octocat Logo in Upper-Right Corner -->
 
-</a>
+
 <p style="text-align: left;">
 Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
 </p>
