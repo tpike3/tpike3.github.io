@@ -3,10 +3,10 @@
 
 <!-- GitHub Octocat Logo in Upper-Right Corner -->
 <a href="https://github.com/projectmesa" target="_blank">
-    <img src="images/octocat.png" alt="GitHub" style="width: 90px; height: 90px; position: absolute; top: 5px; right: 50px;"/>
+    <img src="images/octocat.png" alt="GitHub" style="width: 90px; height: 90px; position: absolute; top: 5px; right: 150px;"/>
 </a>
 <br>
-<h1 style="text-align: left; font-size: 3.50em;">Mesa Co-Lead </h1>
+<h1 style="text-align: left; font-size: 2.50em;">Mesa Co-Lead </h1>
 <br>
 
 ***

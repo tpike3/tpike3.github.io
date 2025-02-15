@@ -1,6 +1,15 @@
 # Site settings
 title: Thomas D. Pike
-description: Complex Systems Scientist
+subtitle: Complex Systems Scientist
+description: Thomas D. Pike's personal website
 url: "https://tpike3.github.io" # Replace with your GitHub Pages URL
 
 markdown: kramdown
+
+# Custom CSS
+sass:
+  style: compressed
+
+# Optional settings
+author: "Tom Pike"
+email: "thomas.pike42@gmail.com"
