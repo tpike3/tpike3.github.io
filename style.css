@@ -1,0 +1,91 @@
+/* style.css */
+
+/* Global Styles */
+body {
+    background-color: #f0f4f7;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin-top: 270px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+h6 {
+    font-size: 3em;
+    margin-top: 0;
+    border-bottom: none;
+    position: relative;
+    text-align: center;
+    font-style: italic;
+}
+
+
+/* Container for image links */
+.link-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+/* Style for clickable images with fixed size */
+.link-container figure {
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+}
+
+.link-container img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 5px solid #333;
+    border-radius: 15px;
+    transition: transform 0.3s;
+    margin: 15px;
+}
+
+.link-container img:hover {
+    transform: scale(1.3);
+}
+
+/* Caption text below images */
+.link-container figcaption {
+    font-size: 1.2em;
+    margin-top: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+/* Page-specific styles */
+.home-page {
+    background-color: #d3e0ea;
+}
+
+.mesa-page {
+    background-color: #c2f7e4;
+}
+
+.niu-page {
+    background-color: #fde2e4;
+}
+
+.interests-page {
+    background-color: #f5dfbb;
+}
