@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="style.css" />
 
-## Complex Systems Scientist and Leader
+## Leader and Complex Systems Scientist
 <br>
 
 <h3 style="text-align: left"> About Me </h3>
