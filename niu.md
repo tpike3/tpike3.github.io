@@ -26,7 +26,7 @@ From August 2019 to Present I have been assigned ot the National Intelligence Un
 
 <br>
 <p>
-From November 2021 to August 2024 (where I requested to step down to retire)
+From November 2021 to August 2024 (when I requested to step down to retire)
 
 <ul>
     <li> Led the U.S. Intelligence Community's Science and Technology Intelligence education program, which focuses on the assessment and integration of science and technology for competitive advantage. During my tenure, I significantly increasing the level of  technical education in the curriculum and the associated technical literacy of the School's students </li>
@@ -65,5 +65,5 @@ From August 2019 to November 2021 I served as faculty member in the Cyber Intell
     <br>
     <li> Served as principal investigator for over 20 research projects that created data science approaches for national security applications.</li>
     <br>
-    
+</ul>
 </p>
