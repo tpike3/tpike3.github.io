@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="style.css" />
 
-## Complex Systems Scientist and Leader
+## Leader and Complex Systems Scientist
 <br>
 
 <h3 style="display: flex; align-items: center; text-align: left;">
@@ -15,7 +15,7 @@
 <p>
 <br>
 
-From August 2019 to Present I have been assigned ot the National Intelligence University as part of the U.S. Army's Professor of Strategic Intelligence Program.
+From August 2019 to Present I have been assigned to the National Intelligence University as part of the U.S. Army's Professor of Strategic Intelligence Program.
 </p>
 <h3 style="display: flex; align-items: center; text-align: left;">
     <a href="https://www.ni-u.edu/msti-u" target="_blank" style="margin-right: 10px;">

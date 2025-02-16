@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-## Complex Systems Scientist and Leader
+## Leader and Complex Systems Scientist
 <br>
 
 <br>
@@ -11,37 +11,31 @@
 I have been a Mesa contributor since 2018. Open Source is an exceptional way to find passionate problem solvers across the globe and solve hard problems together. Beside contributions and code reviews to help take Mesa from version 0 to version 3, I have helped Mesa be selected for Google Summers of Code, become NumFOCUS affiliated, and be selected for small development grants. I am honored to work with the exceptional Mesa Dev Community everyday!   
 </p>
 
-<div class="darker-section" style="--bg-color: #c2e0f4;>
-
-<h1 style="text-align: left;"> Mesa
-<a href="https://github.com/projectmesa" target="_blank">
-<img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"/></a>
-</h1>
-
-<p style="text-align: left;">
-Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
-</p>
-
-<h2 style="text-align: left;"> Explore Mesa </h2> 
-
-<div class="link-container">
-    <!-- Mesa GIF -->
-    <figure>
-        <a href="https://mesa.readthedocs.io" target="_blank">
-            <img src="images/Mesa.gif" alt="Mesa Library" />
-        </a>
-        <figcaption>Mesa</figcaption>
-    </figure>
-</div>
-
-<div class="link-container">
-    <!-- Mesa-Geo GIF -->
-    <figure>
-        <a href="https://mesa-geo.readthedocs.io" target="_blank">
-            <img src="images/Mesa_Geo.gif" alt="Mesa-Geo Library" />
-        </a>
-        <figcaption>Mesa-Geo</figcaption>
-    </figure>
-</div>
-
+<div class="darker-section" style="--bg-color: #c2e0f4;">
+    <h1 style="text-align: left;">Mesa
+        <a href="https://github.com/projectmesa" target="_blank">
+        <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"></a>
+    </h1>
+    <p>
+    Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
+    </p>
+    <h2 style="text-align: left;"> Explore Mesa </h2> 
+    <div class="link-container">
+        <!-- Mesa GIF -->
+        <figure>
+            <a href="https://mesa.readthedocs.io" target="_blank">
+                <img src="images/Mesa.gif" alt="Mesa Library" />
+            </a>
+            <figcaption>Mesa</figcaption>
+        </figure>
+    </div>
+    <div class="link-container">
+        <!-- Mesa-Geo GIF -->
+        <figure>
+            <a href="https://mesa-geo.readthedocs.io" target="_blank">
+                <img src="images/Mesa_Geo.gif" alt="Mesa-Geo Library" />
+            </a>
+            <figcaption>Mesa-Geo</figcaption>
+        </figure>
+    </div>
 </div>
