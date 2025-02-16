@@ -7,7 +7,7 @@
 
 <p>
 
-I have four broad research areas tha fall under the umbrella of next generation governance and decisions making
+I have four broad research areas that fall under the umbrella of next generation governance and decisions making
 
 </p>
 
