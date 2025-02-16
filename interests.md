@@ -10,8 +10,8 @@
         <div class="summary-content">
         <div class="summary-caption">Simulation Accessibility</div>
         <div class="summary-text">
-            I am interested in how to create a simulation ecosystem that allows users to rapidly create and customize valid simulations to aid their decision-making. Whether a family planning a day trip, a manager trying to determine the impact of resource allocations, or world leaders debating effective international governance. <br><br>
-            I think the integration of GPTs that can generate agent behavior with multi-agent reinforcement learning with human feedback learning can make this once insurmountable task highly feasible. 
+            I am interested in how to create a simulation ecosystem that allows users to rapidly create and customize valid simulations to aid their decision-making. Whether a family planning a day trip, a manager trying to determine the impact of resource allocations, or world leaders debating effective national and international governance. <br><br>
+            I think the integration of GPTs that can generate agent behavior combined with multi-agent reinforcement learning and reinforcement human feedback learning makes this once insurmountable task highly feasible. 
         </div>
     </div>
 </div>
@@ -21,8 +21,8 @@
         <div class="summary-content">
         <div class="summary-caption">Financial Metabolism</div>
         <div class="summary-text">
-            I am interested in how societies metabolize finance and the impact of that processing impacts their socio-culture-political economy and impacts their emergent behavior as a population. <br><br>
-            This approach thinks of money as an energy stream following through groups allowing or restricting their options which then has impact over time on how that population functions. Although this focuses on finance, societies are non-decomposable and culture and information streams shape how people view their energy stream (e.g. outrage or acceptance)   
+            I am interested in how societies metabolize finance and the impact that processing has on their socio-culture-political- economic evolution and and associated emergent behavior as a population. <br><br>
+            This approach thinks of money as an energy stream following through groups allowing or restricting their options which then has impact over time on how that population functions. Although this focuses on finance, societies are non-decomposable and culture and information streams shape how people view their energy stream (e.g. outrage or acceptance) and the decisions they make.    
         </div>
     </div>
 </div>
@@ -32,8 +32,8 @@
         <div class="summary-content">
         <div class="summary-caption">Societal Phase Transitions</div>
         <div class="summary-text">
-            Complex systems demonstrate indicators when they are about to transition from one state to another. These indicators are seen in humans transition from a depressive to non-depressive state, ecologies transitioning from one state to another such as a forest to a savannah.<br><br>
-            What are the signatures of human society as its  stability (its homeorhesis) starts to weaken as it transitions from one state to another, such as an autocracy to a democracy?   
+            Complex systems demonstrate signatures when they are about to transition from one dynamic state to another dynamic state. These signatures are seen in the human brains transition from a depressive to non-depressive state and ecologies transitioning from one state to another, such as a forest to a savannah.<br><br>
+            What are the signatures of human society as its stability (its homeorhesis) starts to weaken and it transitions from one dynamic state to another, such as an autocracy to a democracy, and how we rigorously assess which new dynamic state it will transition too?   
         </div>
     </div>
 </div>
@@ -43,7 +43,7 @@
         <div class="summary-content">
         <div class="summary-caption">Open Source Dynamics</div>
         <div class="summary-text">
-            Open Source Software has proven to be an an incredible decentralized problems solving network, enabled by the internet and coding repositories. Understanding more effectively how these dynamics works can prove incredibly insightful into  understanding optimal organization and problem solving dynamics to aid organizational and societal governance. 
+            Open Source Software has proven to be an an incredible decentralized problem solving network, enabled by the internet, coding repositories and git. Understanding more effectively how these dynamics work can prove incredibly insightful into  understanding optimal organization and problem solving dynamics to aid organizational and societal governance. 
         </div>
     </div>
 </div>

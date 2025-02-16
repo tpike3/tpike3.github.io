@@ -25,9 +25,9 @@ From August 2019 to Present I have been assigned to the National Intelligence Un
         <div class="summary-content">
         <div class="summary-caption">Dean, Oettinger School of Science and Technology Intelligence</div>
         <div class="summary-text">
-        <p> &emsp; I served as Dean from November 2021 to August 2024 (when I requested to step down to retire). </p>
+        <p> I served as Dean from November 2021 to August 2024 (when I requested to step down to retire). </p>
             <ul>
-                <li> Led the U.S. Intelligence Community's Science and Technology Intelligence education program, which focuses on the assessment and integration of science and technology for competitive advantage. During my tenure, I significantly increasing the level of  technical education in the curriculum and the associated technical literacy of the School's students </li>
+                <li> Led the U.S. Intelligence Community's Science and Technology Intelligence education program, which focuses on the assessment and integration of science and technology for competitive advantage. During my tenure, I significantly increased the level of  technical education in the curriculum and the associated technical literacy of the School's students </li>
                 <br>
                 <li> Led and coordinated 60+ research projects annually, driving the integration of cutting-edge technologies notably AI and quantum technology into analysis, collection, sensemaking, cybersecurity, and economics. Research efforts resulted in everything from policy updates to AI tools immediately integrated into organizations. </li>
                 <br>
@@ -52,11 +52,11 @@ From August 2019 to Present I have been assigned to the National Intelligence Un
         <div class="summary-content">
         <div class="summary-caption">Faculty, Cyber Intelligence and Data Science</div>
         <div class="summary-text">
-        <p> From August 2019 to November 2021 I served as faculty member in the Cyber Intelligence and Data Science Department co-building the data science curriculum </p>
+        <p> From August 2019 to November 2021, I served as faculty member in the Cyber Intelligence and Data Science Department co-building the data science curriculum </p>
             <ul>
-                <li> Created half of NIU’s data science curriculum resulting in a program that is accessible to beginners as well as experienced data scientists, dramatically increasing technical literacy. The data science program quickly became the most technical curriculum at NIU. The curriculum educates students to effectively apply data science techniques (e.g. Statistics, Machine Learning, Deep Learning, Simulation) in practical effective ways to address the hard problems of national security. </li>
+                <li> Created half of NIU’s data science curriculum resulting in a program that is accessible to beginners as well as experienced data scientists, dramatically increasing technical literacy. The curriculum educates students to effectively apply data science techniques (e.g. Statistics, Machine Learning, Deep Learning, Simulation) in practical effective ways to address the hard problems of national security. </li>
                 <br>
-                <li> Developed and executed a curriculum to holistically at look the dynamics of U.S. security through the rapidly evolving financial technology landscape, the dynamics of global supply chain, and the impact of finance and governance on emergent socio-cultural-political-economic societal behavior. I also conducted research along these themes.</li>
+                <li> Developed and executed a curriculum to holistically look at the dynamics of U.S. security through the rapidly evolving financial technology landscape, the dynamics of global supply chain, and the impact of finance and governance on emergent socio-cultural-political-economic societal behavior. I also conducted research along these themes.</li>
                 <br>
                 <li> Led a research program on the dynamics of decentralized problem-solving to find optimal solutions across multiple organizations. In this case focusing on understanding the open source software dynamics and its emergent problem solving processes.</li>
                 <br>

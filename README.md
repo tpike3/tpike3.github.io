@@ -10,12 +10,15 @@
 <h3 style="text-align: left"> About Me </h3>
 <p>
 <br>
-I am passionate complex systems scientist, who uses agent based models as well as several other approaches (e.g. ML, DL, GPT, RL, Networks, HyperNetworks) often integrated together in an attempt to understand the world better. 
+I am passionate complex systems scientist, who uses agent based models as well as several other approaches (e.g. ML, DL, GPT, RL, HFRL, Networks, HyperNetworks) often integrated together in an attempt to understand the world better. 
 <ul>
     <li><strong>NIU:</strong> I am currently retiring from the U.S. Army and my final duty station at the National Intelligence University.</li>
     <li><strong>Agent Based Models:</strong> I am a co-lead for Mesa - Agent Based Modeling in Python</li>
     <li><strong>Research Interests:</strong> My focus is on next generation governance and decision-making.</li>
 </ul>
+
+
+
 </p>
 
 ***
