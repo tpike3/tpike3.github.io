@@ -1,15 +1,9 @@
 <link rel="stylesheet" href="style.css" />
 
 ## Leader and Complex Systems Scientist
+##### Next Generation Governance and Decision-Making
 
-
-<h2 style="text-align: left"> Research Interests </h2>
-
-<p>
-
-I have four broad research areas that fall under the umbrella of next generation governance and decisions making
-
-</p>
+<h3 style="text-align: left"> Research Interests </h3>
 
 <div class="image-summary-container">
     <img src="images/simulation.jpg" alt="Simulation Accessibility">

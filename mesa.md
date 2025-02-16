@@ -1,10 +1,11 @@
 <link rel="stylesheet" href="style.css" />
 
 ## Leader and Complex Systems Scientist
+##### Next Generation Governance and Decision-Making
 <br>
 
 <br>
-<h1 style="text-align: left; font-size: 2.5em;">Mesa Co-Lead </h1>
+<h2 style="text-align: left;">Mesa Co-Lead </h2>
 <br>
 
 <p style="text-align: left;">
@@ -12,14 +13,14 @@ I have been a Mesa contributor since 2018. Open Source is an exceptional way to 
 </p>
 
 
-<h1 style="text-align: left;">Mesa
-    <a href="https://github.com/projectmesa" target="_blank">
-    <img src="images/octocat.png" alt="GitHub" style="width: 50px; height: 50px;"></a>
-</h1>
+<h2 style="text-align: left;">Mesa
+    
+</h2>
 <p>
 Mesa allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python’s data analysis tools.
 </p>
-<h2 style="text-align: left;"> Explore Mesa </h2> 
+<h3 style="font-size: 2.50em;"> Explore Mesa <a href="https://github.com/projectmesa" target="_blank">
+    <img src="images/octocat.png" alt="GitHub" style="width: 75px; height: 75px;"></a> </h3> 
 <div class="link-container">
     <!-- Mesa GIF -->
     <figure>

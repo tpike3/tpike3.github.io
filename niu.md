@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="style.css" />
 
 ## Leader and Complex Systems Scientist
+##### Next Generation Governance and Decision-Making
 <br>
 
 <h3>
@@ -45,13 +46,13 @@ From August 2019 to Present I have been assigned to the National Intelligence Un
 </div>
 
 <div class="image-summary-container">
-    <a href="https://www.ni-u.edu/wp-content/uploads/2023/11/NIU-Catalog_23-24_Final.pdf#page=80"" target="_blank" >
+    <a href="https://www.ni-u.edu/wp-content/uploads/2023/11/NIU-Catalog_23-24_Final.pdf#page=80" target="_blank" >
         <img src="images/DSI.png" alt="Data Science Intelligence">
     </a>
         <div class="summary-content">
         <div class="summary-caption">Faculty, Cyber Intelligence and Data Science</div>
         <div class="summary-text">
-        <p> &emsp; From August 2019 to November 2021 I served as faculty member in the Cyber Intelligence and Data Science Department co-building the data science curriculum </p>
+        <p> From August 2019 to November 2021 I served as faculty member in the Cyber Intelligence and Data Science Department co-building the data science curriculum </p>
             <ul>
                 <li> Created half of NIU’s data science curriculum resulting in a program that is accessible to beginners as well as experienced data scientists, dramatically increasing technical literacy. The data science program quickly became the most technical curriculum at NIU. The curriculum educates students to effectively apply data science techniques (e.g. Statistics, Machine Learning, Deep Learning, Simulation) in practical effective ways to address the hard problems of national security. </li>
                 <br>
