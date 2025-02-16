@@ -7,14 +7,14 @@
 <br>
 
 <h3 style="text-align: left"> About Me </h3>
-<p style="text-align: left;">
+<p>
 I am passionate complex systems scientist, who uses agent based models as well as several other approaches (e.g. ML, DL, GPT, RL, Networks, HyperNetworks) often integrated together in an attempt to understand the world better. My focus is on next generation governance and decision-making. 
 
 I am currently retiring from the U.S. Army and my final duty station at the National Intelligence University. 
 
 I am a co-lead on Mesa - Agent Based Modeling in Python
 
-I am alway learning more about topics that can help me better understand or deliver tools to aid governance and decision-making. 
+I am always learning to  help me better understand or deliver tools to aid next generation governance and decision-making. 
 </p>
 
 ***

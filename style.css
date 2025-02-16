@@ -48,7 +48,7 @@ h6 {
 }
 
 
-/* Container for image links */
+/* Container for image links on README, NIU, Mesa */
 .link-container {
     display: flex;
     justify-content: center;
@@ -115,4 +115,42 @@ h6 {
 
 .interests-page {
     background-color: #f5dfbb;
+}
+
+/* Container for image links on Interests */
+.image-summary-container {
+    display: flex;
+    align-items: flex-start;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    max-width: 1000px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.image-summary-container img {
+    max-width: 200px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.summary-content {
+    flex: 1;
+}
+
+.summary-caption {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.summary-text {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.5;
 }
